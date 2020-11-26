@@ -32,6 +32,9 @@ This kit seamless operates with the cost-effective [IO397 FGPA I/O Module](https
 
 **Release notes**
 
+> **v5.0.0 - NOV2020**
+ -  R2020a release
+
 > **v4.0.0 - NOV2020**
  -  R2019b release
 
