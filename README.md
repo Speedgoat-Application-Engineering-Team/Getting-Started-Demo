@@ -7,7 +7,7 @@ The reference application leverages the Speedgoat [Getting Started Demo Kit](htt
 
 This kit seamless operates with the cost-effective [IO397 FGPA I/O Module](https://www.speedgoat.com/products/simulink-programmable-fpgas-fpga-i-o-modules-io397) and is delivered with a custom FPGA implementation file integrating [PWM generation](https://www.speedgoat.com/products/simulink-programmable-fpgas-fpga-code-module-pwm-generation), [I2C communication](https://www.speedgoat.com/products-services/communications-protocols/i2c), and General Purpose Digital I/O code modules.
 
-
+[![View Getting-Started-Demo on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/83448-getting-started-demo)
 ----------
 
 
